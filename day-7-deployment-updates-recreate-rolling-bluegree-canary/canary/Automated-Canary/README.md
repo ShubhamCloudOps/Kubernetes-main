@@ -11,10 +11,10 @@
 
 
 # 🧪 How to Deploy
-kubectl apply -f rollout.yaml
-kubectl apply -f service.yaml
-kubectl apply -f ingress.yaml
-kubectl apply -f analysis.yaml
+    kubectl apply -f rollout.yaml
+    kubectl apply -f service.yaml
+    kubectl apply -f ingress.yaml
+    kubectl apply -f analysis.yaml
 
 # 🔍 How It Works (Simple)
 ### 1. New version deployed
@@ -26,11 +26,11 @@ kubectl apply -f analysis.yaml
 
 
 
-### Users → Ingress → Argo Rollouts
-                       │
-          ┌────────────┴────────────┐
-          │                         │
-     Stable Pods              Canary Pods
+    Users → Ingress → Argo Rollouts
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+         Stable Pods              Canary Pods
 
 
 
