@@ -28,9 +28,9 @@
           canaryService: myapp-canary
           stableService: myapp-stable
 
-    analysis:
-          templates:
-            - templateName: success-rate
+          analysis:
+                templates:
+                  - templateName: success-rate
             
           steps:
                 - setWeight: 10
