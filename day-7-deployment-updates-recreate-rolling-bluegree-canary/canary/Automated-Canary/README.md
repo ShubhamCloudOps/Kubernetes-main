@@ -24,11 +24,11 @@ kubectl apply -f analysis.yaml
 ### 5. If errors ❌ → automatic rollback
 
 
-### Users → Ingress → Argo Rollouts
+Users → Ingress → Argo Rollouts
                      │
         ┌────────────┴────────────┐
         │                         │
-###   Stable Pods              Canary Pods
+   Stable Pods              Canary Pods
 
 
  #  ⚠️ Requirements
