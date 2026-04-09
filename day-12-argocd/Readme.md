@@ -1,6 +1,5 @@
 # A Complete Overview of ArgoCD with a Practical Example
 
-> Based on the article by [Veerababu Narni](https://medium.com/@veerababu.narni232/a-complete-overview-of-argocd-with-a-practical-example-f4a9a8488cf9)
 
 ---
 
@@ -296,4 +295,4 @@ You can now perform any changes in your Git repository and ArgoCD will take care
 
 ---
 
-> *Original article: [A Complete Overview of ArgoCD with a Practical Example](https://medium.com/@veerababu.narni232/a-complete-overview-of-argocd-with-a-practical-example-f4a9a8488cf9) by Veerababu Narni*
+> Refer article: [A Complete Overview of ArgoCD with a Practical Example](https://medium.com/@veerababu.narni232/a-complete-overview-of-argocd-with-a-practical-example-f4a9a8488cf9) 
